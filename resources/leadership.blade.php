@@ -13,7 +13,7 @@
 
 <body>
     <div class="heading">
-        <h1><b>Leadership</b></h1>
+        <h1><b>Leadership Quality</b></h1>
     </div>
     <section id="cta" class="cta">
         <div class="container">
